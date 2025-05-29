@@ -8,7 +8,6 @@ I am a passionate and motivated computer science student exploring the fields of
 
 ## 🌍 About Me:
 - 🌍 **Location:** Algiers, Algeria
-- 💻 **Portfolio:** [Coming Soon!]
 - 📧 **Email:** ihsenenoorkhouas13@gmail.com
 - 🧠 **Interests:** Cybersecurity, Web Development, AI, and Programming in general .
 - ⚡ **Goal:** To excel as a cybersecurity specialist while contributing to innovative tech solutions.
